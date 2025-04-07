@@ -1,0 +1,2782 @@
+[
+  {
+    "question": "How many golf balls put into the worlds oceans would it take to submerge all of the land on earth from the displaced water?",
+    "extracted_value": 3073627518518519,
+    "attempts": 1
+  },
+  {
+    "question": "What fraction of the sun's energy output is intercepted by the earth?",
+    "extracted_value": 4.5789e-10,
+    "attempts": 1
+  },
+  {
+    "question": "The effect of air pressure was demonstrated in 1654 in Magdeburg, Germany with an impressive experiment. Two hollow metal hemispheres with a flat metal rim (flange) were placed together and the air removed from the interior with a primitive vacuum pump. The external pressure of the air pushed them together. When they tried to pull the hemispheres apart using two rings welded to the hemispheres, they could not be pulled apart even by a number of people pulling together. The sphere produced by putting the two hemispheres together is about the size of a basketball. Estimate the force needed to pull them apart.",
+    "extracted_value": 4582.47,
+    "attempts": 1
+  },
+  {
+    "question": "What would be the effect to the oceans If all fishing was banned for four days once a year across the planet?",
+    "extracted_value": 4,
+    "attempts": 1
+  },
+  {
+    "question": "How much energy does it take to repair damaged tissue?",
+    "extracted_value": 2450,
+    "attempts": 1
+  },
+  {
+    "question": "How many RBCs equal one cc in volume?",
+    "extracted_value": 5000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How much does RFK baseball stadium weigh?",
+    "extracted_value": 500000,
+    "attempts": 1
+  },
+  {
+    "question": "What's the smallest population the human race can reach that would allow it to re-populate?",
+    "extracted_value": 160,
+    "attempts": 1
+  },
+  {
+    "question": "How much of the Earth's atmosphere has passed through a combustion or jet engine?",
+    "extracted_value": 2000,
+    "attempts": 1
+  },
+  {
+    "question": "If all of the cars in the U.S. got at least 25 miles per gallon, how many gallons of gas would be saved this year?",
+    "extracted_value": 30000000000,
+    "attempts": 3
+  },
+  {
+    "question": "How many packets are needed to measure a single line of M&Ms to a distance of 100m?",
+    "extracted_value": 182,
+    "attempts": 1
+  },
+  {
+    "question": "The SO bacterium takes 6 minutes to reproduce. If the SO bacteria don't die, how many hours will it take for two to reproduce and make a volume equal to that of the earth?",
+    "extracted_value": 10,
+    "attempts": 1
+  },
+  {
+    "question": "How many seconds would it take the sound from a volcano's eruption to travel around the Earth?",
+    "extracted_value": 116858,
+    "attempts": 1
+  },
+  {
+    "question": "How much CO2 do we save in winter on heating when the earth gets 2C warmer?",
+    "extracted_value": 240,
+    "attempts": 1
+  },
+  {
+    "question": "How many drops of water are needed to fill an Olympic swimming pool?",
+    "extracted_value": 50000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many jumps would you need to travel across a carpet?",
+    "extracted_value": 4,
+    "attempts": 1
+  },
+  {
+    "question": "How many gallons of water in the Atlantic ocean?",
+    "extracted_value": 82400000000000000000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the volume (cubic meters) of the earth's oceans?",
+    "extracted_value": 1332000000000000000,
+    "attempts": 1
+  },
+  {
+    "question": "Estimate the total number of sheets of 8.5 x 11 inch paper used by all the students at the University of Maryland in one semester.",
+    "extracted_value": 20500000,
+    "attempts": 1
+  },
+  {
+    "question": "How many kilograms of co2 would i have to breath out to lose 1 kg of fat?",
+    "extracted_value": 2.8,
+    "attempts": 1
+  },
+  {
+    "question": "How much rice can fit in an average sized house?",
+    "extracted_value": 362874,
+    "attempts": 1
+  },
+  {
+    "question": "How much extra time would Americans spend in the car if the speed limits were decreased by 10 mph, assuming everyone strictly adheres to speed limits?",
+    "extracted_value": 12121212121.22,
+    "attempts": 1
+  },
+  {
+    "question": "What is the mass, g, of the Earth?",
+    "extracted_value": 5972000000000000000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How much money is spent in the school canteen in a week?",
+    "extracted_value": 3,
+    "attempts": 4
+  },
+  {
+    "question": "How much would the human skeleton weigh if it was made of iron?",
+    "extracted_value": 217,
+    "attempts": 1
+  },
+  {
+    "question": "What percentage of people have the ability to whistle?",
+    "extracted_value": 20,
+    "attempts": 1
+  },
+  {
+    "question": "What is the number of square inches of pizza consumed by all the students at the University of Maryland during one semester?",
+    "extracted_value": 50893650,
+    "attempts": 1
+  },
+  {
+    "question": "How many people in the world are talking on their cell phones at this instant?",
+    "extracted_value": 316000000,
+    "attempts": 1
+  },
+  {
+    "question": "If all the pickles sold in the U.S. be arranged side by side, how long would it be?",
+    "extracted_value": 1262626,
+    "attempts": 1
+  },
+  {
+    "question": "What is the total mass in kilograms of all the students in your school?",
+    "extracted_value": 2500,
+    "attempts": 4
+  },
+  {
+    "question": "How many electrons pass through a lighted 60 watt bulb in a day?",
+    "extracted_value": 23,
+    "attempts": 1
+  },
+  {
+    "question": "How much does it actually cost to maintain the internet?",
+    "extracted_value": 300000000000,
+    "attempts": 1
+  },
+  {
+    "question": "At the moment the sun is fully below the horizon, how far away would someone have to be to witness the moment the sun rises fully ABOVE the horizon?",
+    "extracted_value": 4.641,
+    "attempts": 1
+  },
+  {
+    "question": "If all books sold in the United States are read on Kindle instead, how many trees can be saved?",
+    "extracted_value": 23400080,
+    "attempts": 1
+  },
+  {
+    "question": "How large would a room have to be for a 60 watt lightbulb suspended in the middle to cast no light on any walls?",
+    "extracted_value": 60,
+    "attempts": 1
+  },
+  {
+    "question": "How much water is wasted by people waiting for it to get hot for showers?",
+    "extracted_value": 912.5,
+    "attempts": 1
+  },
+  {
+    "question": "How many students are there in North America?",
+    "extracted_value": 56000000,
+    "attempts": 1
+  },
+  {
+    "question": "The total volume of flatulence produced by the human race each day?",
+    "extracted_value": 8000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How much is it possible to heat a glass of water by stirring it vigorously?",
+    "extracted_value": 0.72,
+    "attempts": 1
+  },
+  {
+    "question": "This winter, the East coast has been hit by a number of snow storms. How many hours does a person spend shoveling the walk way after a snow storm.",
+    "extracted_value": 5,
+    "attempts": 1
+  },
+  {
+    "question": "How many oat cylinders are in a cereal box containing 425 g?",
+    "extracted_value": 850,
+    "attempts": 1
+  },
+  {
+    "question": "If an average man were to have all of bones lined up, what would be their total length?",
+    "extracted_value": 9,
+    "attempts": 1
+  },
+  {
+    "question": "How much fish do humans consume per year?",
+    "extracted_value": 156000000000,
+    "attempts": 1
+  },
+  {
+    "question": "If every living thing in the ocean disappeared, how much would the water level lower?",
+    "extracted_value": 0.04,
+    "attempts": 1
+  },
+  {
+    "question": "Since the invention of the automobile, how many people have died in the United States as a result of car accidents?",
+    "extracted_value": 450000,
+    "attempts": 1
+  },
+  {
+    "question": "How many jelly beans fill a bucket?",
+    "extracted_value": 76923,
+    "attempts": 1
+  },
+  {
+    "question": "How many steps would I need to climb to burn as many calories as there are in a bag of potato chips?",
+    "extracted_value": 4545,
+    "attempts": 1
+  },
+  {
+    "question": "How much energy is needed to raise sea levels by 5 feet over 50 years?",
+    "extracted_value": 24,
+    "attempts": 1
+  },
+  {
+    "question": "If a person standing on the surface of the Earth was suddenly no longer affected by the Earth's gravitational pull, could they be thrown to Mars?",
+    "extracted_value": 0,
+    "attempts": 1
+  },
+  {
+    "question": "By cooking, how many times does rice expand in volume?",
+    "extracted_value": 3,
+    "attempts": 1
+  },
+  {
+    "question": "What is the mass, grams, of a gallon of the paint?",
+    "extracted_value": 5143,
+    "attempts": 1
+  },
+  {
+    "question": "What is the value of all sunken treasure (gold and silver) in the ocean?",
+    "extracted_value": 60,
+    "attempts": 1
+  },
+  {
+    "question": "What was the minimal sugar concentration in urine for doctors to be able to taste it ?",
+    "extracted_value": 0.1,
+    "attempts": 1
+  },
+  {
+    "question": "Assuming that humans naturally had bird like wings, how large should the wingspan need to be in order for the average human to be capable of flight?",
+    "extracted_value": 24.5,
+    "attempts": 1
+  },
+  {
+    "question": "In a minute, all of a person's blood passes through the heart. During a day, how many times does a RBC pass through the heart?",
+    "extracted_value": 1440,
+    "attempts": 1
+  },
+  {
+    "question": "If you took all the hair on the average person's head and put it into a cylinder what would the diameter be?",
+    "extracted_value": 31.6,
+    "attempts": 1
+  },
+  {
+    "question": "How much rock (volume) would have to \"fall into the ocean\" to raise its level by even one meter?",
+    "extracted_value": 144400000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the total length of all the hair in an average female human?",
+    "extracted_value": 18.939,
+    "attempts": 1
+  },
+  {
+    "question": "For the entire United States populace, how many liters of blood are pumped each day?",
+    "extracted_value": 2402216600000,
+    "attempts": 1
+  },
+  {
+    "question": "What would be the average income of someone who lives on Earth?",
+    "extracted_value": 10000,
+    "attempts": 1
+  },
+  {
+    "question": "The SO bacterium needs a living space of about 30x10-4 cm in all directions to thrive. How many of these thriving bacteria might be found in a gram of pond water?",
+    "extracted_value": 37037037,
+    "attempts": 1
+  },
+  {
+    "question": "How many cigarettes have been smoked throughout history?",
+    "extracted_value": 50000,
+    "attempts": 1
+  },
+  {
+    "question": "How much should I pay back on $100 freely given 20 years ago?",
+    "extracted_value": 180.6,
+    "attempts": 1
+  },
+  {
+    "question": "How much money have the creators of Among Us made from their game?",
+    "extracted_value": 2020,
+    "attempts": 1
+  },
+  {
+    "question": "How many SO bacteria would be able to be packed into a ping pong ball?",
+    "extracted_value": 8000000,
+    "attempts": 1
+  },
+  {
+    "question": "How much cash can you fit in a bag?",
+    "extracted_value": 1905800,
+    "attempts": 1
+  },
+  {
+    "question": "How much of the atmosphere of Earth has passed through a combustion engine?",
+    "extracted_value": 2.2e-05,
+    "attempts": 1
+  },
+  {
+    "question": "If the oceans dried up, estimate the thickness (cm) of the resulting layer of salt uniformly covering the earth.",
+    "extracted_value": 42.216,
+    "attempts": 1
+  },
+  {
+    "question": "Assume that all of the oxygen transported during a year in an adult male is converted to liquid water. What is the volume of that water in cc?",
+    "extracted_value": 161293.5,
+    "attempts": 1
+  },
+  {
+    "question": "How many people would be needed to surround this city if they held hands?",
+    "extracted_value": 2,
+    "attempts": 1
+  },
+  {
+    "question": "How many cells are there in the human body?",
+    "extracted_value": 37200000000000,
+    "attempts": 1
+  },
+  {
+    "question": "If a ship sank and a large pocket of air was trapped in an airtight spot, how long would the air be breathable for a survivor?",
+    "extracted_value": 1.5,
+    "attempts": 1
+  },
+  {
+    "question": "How much force does it take for a finger to puncture a part of your body?",
+    "extracted_value": 100,
+    "attempts": 1
+  },
+  {
+    "question": "Under ideal conditions, the bacterium eNSO can reproduce in 10 minutes. eNSO is rodlike with a diameter of 1 µm and a length of 5 µm. If eNSO eats only onions as its food source, how many minutes elapse before it consumes an amount equal to the onion mass consumed in the US in a year?",
+    "extracted_value": 798.9,
+    "attempts": 1
+  },
+  {
+    "question": "if a peacock mantis shrimp was 200 pounds and everything was scaled up accordingly, how hard would it be able to punch?",
+    "extracted_value": 141000,
+    "attempts": 1
+  },
+  {
+    "question": "If the land area of the earth were divided up equally for each person on the planet, about how much would you get?",
+    "extracted_value": 18840,
+    "attempts": 1
+  },
+  {
+    "question": "How far could you dive into a pool filled with Nerds candy?",
+    "extracted_value": 0.5,
+    "attempts": 1
+  },
+  {
+    "question": "What is the volume of the Earth's oceans in cubic miles?",
+    "extracted_value": 321003271,
+    "attempts": 1
+  },
+  {
+    "question": "How many crackers would cover a sheet of paper?",
+    "extracted_value": 23,
+    "attempts": 1
+  },
+  {
+    "question": "What is the approximate gap between the oldest living generation to the newest?",
+    "extracted_value": 100,
+    "attempts": 1
+  },
+  {
+    "question": "How much does the total student population in your school weigh, in grams?",
+    "extracted_value": 1000,
+    "attempts": 1
+  },
+  {
+    "question": "What's the average number of descendents per human who ever lived?",
+    "extracted_value": 0.074,
+    "attempts": 1
+  },
+  {
+    "question": "How many peas would you need to fill a bath?",
+    "extracted_value": 11620049,
+    "attempts": 1
+  },
+  {
+    "question": "The Federal Budget Deficit is approximately $100 Billion this year. What percentage of this do Americans spend on food in restaurants in one year?",
+    "extracted_value": 65,
+    "attempts": 1
+  },
+  {
+    "question": "If a planet was 5 times the size of the Earth with 1.5 times the radius, what would the surface gravity be?",
+    "extracted_value": 21.7778,
+    "attempts": 1
+  },
+  {
+    "question": "A steel ball is dropped from a height of three meters onto a concrete floor. It bounces a large number of times but eventually comes to rest. Estimate the ball's rise in temperature.",
+    "extracted_value": 0.03,
+    "attempts": 1
+  },
+  {
+    "question": "How many hours of unique motion picture is there?",
+    "extracted_value": 450000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the weight of garbage thrown away by each family every year?",
+    "extracted_value": 1600,
+    "attempts": 1
+  },
+  {
+    "question": "How many adults donate blood each year in the United States?",
+    "extracted_value": 6.8,
+    "attempts": 1
+  },
+  {
+    "question": "The density of water is just about 1000 kg/m3. The density of air is just about 1000 times less. Estimate the height of the atmosphere. As a simplifying assumption, take the atmosphere to be of uniform density up to some height after which the density rapidly falls to zero.",
+    "extracted_value": 10339,
+    "attempts": 1
+  },
+  {
+    "question": "If all the pizzas eaten by students in your school last year were laid out next to each other, what area would be covered?",
+    "extracted_value": 12,
+    "attempts": 1
+  },
+  {
+    "question": "How many LED lights could one candle power?",
+    "extracted_value": 8,
+    "attempts": 1
+  },
+  {
+    "question": "The SO bacterium is special because it has a tiny brain which is about the same percentage of its total weight as an adult human's. Estimate the weight, in grams, of the brain of an SO bacterium.",
+    "extracted_value": 4e-11,
+    "attempts": 1
+  },
+  {
+    "question": "How many people are airborne over Europe at any one moment?",
+    "extracted_value": 30000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the earth's visible circumference from any given location upon the surface.",
+    "extracted_value": 29.53,
+    "attempts": 1
+  },
+  {
+    "question": "What is the marginal value of one person watching a TV show via a paid streaming service, to the people that actually made the show?",
+    "extracted_value": 0.05,
+    "attempts": 1
+  },
+  {
+    "question": "A cup of cooked rice contains how many grams of the element carbon?",
+    "extracted_value": 15.8,
+    "attempts": 1
+  },
+  {
+    "question": "How many people in the world are talking on their cell phones in any given minute?",
+    "extracted_value": 312000000,
+    "attempts": 1
+  },
+  {
+    "question": "If $1 was deposited in a savings account on the day of American Independence at a guaranteed rate of 5% and no money was withdrawn, how many dollars are in the account today?",
+    "extracted_value": 298532.249,
+    "attempts": 1
+  },
+  {
+    "question": "If microchip makers didn't keep trying to shrink their chips, how fast could your average home computer be by now?",
+    "extracted_value": 50,
+    "attempts": 1
+  },
+  {
+    "question": "How much volume would 417234 loosely stacked cherries occupy?",
+    "extracted_value": 2730600,
+    "attempts": 1
+  },
+  {
+    "question": "Estimate the consumption of pigmentary TiO2 in the United States in 2004.",
+    "extracted_value": 1200000000,
+    "attempts": 1
+  },
+  {
+    "question": "If you were to have a baby in every country, What percentage of the world's population would be related to you ?",
+    "extracted_value": 2.5e-06,
+    "attempts": 1
+  },
+  {
+    "question": "How much oil is there left in the world?",
+    "extracted_value": 1400000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How much farmed land does one need to survive?",
+    "extracted_value": 1.4,
+    "attempts": 1
+  },
+  {
+    "question": "Assuming infinite water, how much of an area will we need to cover such that the rate of heat loss from evaporation counteracts the heat gain from global warming?",
+    "extracted_value": 1671580618,
+    "attempts": 1
+  },
+  {
+    "question": "How many multi-link cubes would you need to fill a fridge?",
+    "extracted_value": 50000,
+    "attempts": 1
+  },
+  {
+    "question": "How much area would be covered if all people on earth stood together in a single crowd?",
+    "extracted_value": 283.47,
+    "attempts": 1
+  },
+  {
+    "question": "Estimate the kinetic energy the earth has as a result of its orbiting the sun.",
+    "extracted_value": 33,
+    "attempts": 1
+  },
+  {
+    "question": "If a human body were to increase in volume without increasing in mass how large would they have to grow before they were lighter than air?",
+    "extracted_value": 57.143,
+    "attempts": 1
+  },
+  {
+    "question": "If Bill Gates traded everything he owned for bitcoin in 2009 and then sold in Dec 2017, how much would he have made?",
+    "extracted_value": 791320000000000,
+    "attempts": 1
+  },
+  {
+    "question": "What's the yearly budget of the North American and European movie and television industries combined?",
+    "extracted_value": 46300000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many golf balls could you fit in a 5 gallon water cooler jug?",
+    "extracted_value": 337,
+    "attempts": 1
+  },
+  {
+    "question": "At what point in time have more man-years been spent playing WWII video games than were actually spent in combat in WWII?",
+    "extracted_value": 420000000,
+    "attempts": 1
+  },
+  {
+    "question": "Suppose a meteor made of nickel and iron falls to the earth from deep space. Estimate how much its temperature would rise on impact ignoring any atmospheric effects.",
+    "extracted_value": 444444.444,
+    "attempts": 1
+  },
+  {
+    "question": "If 100% of the energy of all lightning strikes around the world could be harnessed and used, what percentage of the world's power could be supplied by lightning strikes?",
+    "extracted_value": 0.0009,
+    "attempts": 1
+  },
+  {
+    "question": "If humans had wings and adequate muscles to use them, how large (area, full span) would those wings have to be for the human to be able to fly?",
+    "extracted_value": 6,
+    "attempts": 1
+  },
+  {
+    "question": "How many grains of wheat in a quintal?",
+    "extracted_value": 2000000,
+    "attempts": 1
+  },
+  {
+    "question": "Lot's wife was turned into a pillar of salt. How much salt would that produce?",
+    "extracted_value": 28571,
+    "attempts": 1
+  },
+  {
+    "question": "If sea water is 3.5% of salt by weight, how many tons of salt are in a cubic mile of ocean?",
+    "extracted_value": 149527,
+    "attempts": 1
+  },
+  {
+    "question": "If I were going to go to the moon and wanted to leave proof I was there that could be seen from earth, how big would the proof have to be?",
+    "extracted_value": 70,
+    "attempts": 1
+  },
+  {
+    "question": "Relative to the sun, what is the Earth's orbital velocity in miles per hour?",
+    "extracted_value": 66600,
+    "attempts": 1
+  },
+  {
+    "question": "The cereal is poured to fill an 8 oz. bowl. Milk is then added to completely fill the bowl. How many cc of milk were added?",
+    "extracted_value": 236.588,
+    "attempts": 1
+  },
+  {
+    "question": "How many sheets of paper, laid flat, will it take to reach the moon from the Earth?",
+    "extracted_value": 3844679420800,
+    "attempts": 1
+  },
+  {
+    "question": "How many unused escalators are operating world-wide right now?",
+    "extracted_value": 45000,
+    "attempts": 1
+  },
+  {
+    "question": "How many bricks are in the exterior of our school building?",
+    "extracted_value": 6,
+    "attempts": 6
+  },
+  {
+    "question": "How many water droplets make up a stratus cloud?",
+    "extracted_value": 500000000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many particles of flour are in a gram?",
+    "extracted_value": 3215434,
+    "attempts": 1
+  },
+  {
+    "question": "What fraction of the Earth's land mass is represented by Colorado?",
+    "extracted_value": 0.001816,
+    "attempts": 1
+  },
+  {
+    "question": "How many pennies are needed to equal your height?",
+    "extracted_value": 1133,
+    "attempts": 2
+  },
+  {
+    "question": "How many Rubik's cubes could you fit inside a double-decker bus?",
+    "extracted_value": 534468,
+    "attempts": 1
+  },
+  {
+    "question": "How old are you if you are a million days old?",
+    "extracted_value": 2737.85,
+    "attempts": 1
+  },
+  {
+    "question": "How many cars pass by a busy road in a minute?",
+    "extracted_value": 120,
+    "attempts": 1
+  },
+  {
+    "question": "How many bricks are there the whole school?",
+    "extracted_value": null,
+    "attempts": 10
+  },
+  {
+    "question": "We know that within the limits of measurement, the magnitudes of the negative charge on the electron and the positive charge on the proton are equal. Suppose, however, that these magnitudes differed from each other by as little as 0.0001%. With what force would two copper pennies, placed 1m apart, then repel each other?",
+    "extracted_value": 198.6,
+    "attempts": 1
+  },
+  {
+    "question": "If 5 lbs of rice are cooked in ocean water, how many grams of salt are in the cooked rice?",
+    "extracted_value": 159,
+    "attempts": 1
+  },
+  {
+    "question": "If Donald Trump weighed as much as an average Clydesdale horse, but kept his current density and proportions, how tall would he be?",
+    "extracted_value": 145.62,
+    "attempts": 1
+  },
+  {
+    "question": "How thick would the Earth's atmosphere (with its current chemical composition) have to be for it to be dark at the sea-level?",
+    "extracted_value": 200000,
+    "attempts": 1
+  },
+  {
+    "question": "How long would it take to drive on the entirety of every road in Europe at the posted speed limit?",
+    "extracted_value": 9.56,
+    "attempts": 1
+  },
+  {
+    "question": "What is the total pressure the roof of the physics lecture hall would have to support if we had an inch of rain and the roof drains were plugged?",
+    "extracted_value": 26000,
+    "attempts": 1
+  },
+  {
+    "question": "How far can a crow fly without stopping?",
+    "extracted_value": 70,
+    "attempts": 1
+  },
+  {
+    "question": "What percent of animal life on earth do humans comprise?",
+    "extracted_value": 0.01,
+    "attempts": 1
+  },
+  {
+    "question": "What is the weight of a typical building?",
+    "extracted_value": 100800000,
+    "attempts": 1
+  },
+  {
+    "question": "How many pennies are in a typical jar?",
+    "extracted_value": 500,
+    "attempts": 1
+  },
+  {
+    "question": "How many ants are there?",
+    "extracted_value": 5000,
+    "attempts": 1
+  },
+  {
+    "question": "Approximately how many human mothers have ever lived?",
+    "extracted_value": 5000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many times could you say the alphabet in 24 hours?",
+    "extracted_value": 8640,
+    "attempts": 1
+  },
+  {
+    "question": "How large would an object have to be to be able to be visible to the naked eye from the Earth to the Moon?",
+    "extracted_value": 111.74,
+    "attempts": 1
+  },
+  {
+    "question": "How many coats of paint would have to be applied to the walls of a room if a coat of paint is 1/1000 of an inch, and the room is 10 cubic feet.",
+    "extracted_value": 1000,
+    "attempts": 1
+  },
+  {
+    "question": "How many goals total have been scored in every professional football game throughout history?",
+    "extracted_value": 2500000,
+    "attempts": 8
+  },
+  {
+    "question": "How many digital work platforms exist i.e. ones similar to Uber, Upwork, Deliveroo, Mechanical Turk, etc.?",
+    "extracted_value": 300,
+    "attempts": 2
+  },
+  {
+    "question": "How fast would I have to go to make a red traffic light look green?",
+    "extracted_value": 72870,
+    "attempts": 1
+  },
+  {
+    "question": "If the contiguous 48 states were to get an average of 30 inches of rain per year, how many grams of water is that?",
+    "extracted_value": 6157313798600000000,
+    "attempts": 1
+  },
+  {
+    "question": "How heavy would a tesla car be if it were entirely built with the latest and lightest material available such as graphene, while maintaining safety standards but ignoring costs?",
+    "extracted_value": 1000,
+    "attempts": 1
+  },
+  {
+    "question": "How many bees would have to be on me and flap their wings so that they could carry me away?",
+    "extracted_value": 280000,
+    "attempts": 1
+  },
+  {
+    "question": "How many trees would the average American have to plant to be carbon neutral for their lifetime?",
+    "extracted_value": 1264,
+    "attempts": 1
+  },
+  {
+    "question": "What is the total number of spears and swords surviving today from medieval times?",
+    "extracted_value": 10000,
+    "attempts": 1
+  },
+  {
+    "question": "How much force is required to press on a light switch to turn it off?",
+    "extracted_value": 2,
+    "attempts": 1
+  },
+  {
+    "question": "How long does it take for a bucket of water to get to a room temperature?",
+    "extracted_value": 3,
+    "attempts": 1
+  },
+  {
+    "question": "What is the volume of RBCs, in cc, in the blood of an adult male?",
+    "extracted_value": 2250,
+    "attempts": 1
+  },
+  {
+    "question": "What fraction of the earth's volume is provided by the oceans?",
+    "extracted_value": 1.23,
+    "attempts": 1
+  },
+  {
+    "question": "How fast would a baseball have to go to destroy the Earth?",
+    "extracted_value": 1.76e+16,
+    "attempts": 1
+  },
+  {
+    "question": "How many cows does it take to fill a swimming pool with milk in one single day?",
+    "extracted_value": 16667,
+    "attempts": 1
+  },
+  {
+    "question": "The deficit in the Federal Budget this past year was approximately $100 Billion. Suppose you put these $1 bills in packages of 100 each and gave them away at the rate of 1 package every 10 seconds. If you start now, when will you be finished giving them away?",
+    "extracted_value": 317,
+    "attempts": 1
+  },
+  {
+    "question": "What mass of neutrinos leave the sun every second?",
+    "extracted_value": 7e-05,
+    "attempts": 1
+  },
+  {
+    "question": "How many bees are needed to pollinate an orchard?",
+    "extracted_value": 80000,
+    "attempts": 1
+  },
+  {
+    "question": "How many gallons of blood does a person's heart pump in a lifetime?",
+    "extracted_value": 58400000,
+    "attempts": 1
+  },
+  {
+    "question": "How many grains of rice are there in a 25kg bag?",
+    "extracted_value": 1250000,
+    "attempts": 1
+  },
+  {
+    "question": "How many loaves of bread would be needed to survive a 50ft fall?",
+    "extracted_value": 300,
+    "attempts": 2
+  },
+  {
+    "question": "Approximately what size area in solar power arrays would be required for enough power to run the Golden Knights arena in Las Vegas Nevada, during a hypothetical mid-June playoff run?",
+    "extracted_value": 200000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the total world biomass of each insect order such as ants, bees, beetles, flies, spiders, termites, worms, and so on?",
+    "extracted_value": 500000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many pounds of onions were eaten in the U.S. in 2000?",
+    "extracted_value": 150000000,
+    "attempts": 1
+  },
+  {
+    "question": "How much milk is produced in the United States each year?",
+    "extracted_value": 218000000000,
+    "attempts": 1
+  },
+  {
+    "question": "For a freshly mowed lawn, estimate the mass, g, of the grass above ground.",
+    "extracted_value": 181436.8,
+    "attempts": 1
+  },
+  {
+    "question": "How many water molecules are in the oceans?",
+    "extracted_value": 46,
+    "attempts": 1
+  },
+  {
+    "question": "How many hours from one full moon to the next?",
+    "extracted_value": 708,
+    "attempts": 1
+  },
+  {
+    "question": "How much Earth could I have if it was divided fairly amongst all organisms?",
+    "extracted_value": 0.05101,
+    "attempts": 1
+  },
+  {
+    "question": "How many pizza boxes would we need to cover the classroom floor?",
+    "extracted_value": 2,
+    "attempts": 1
+  },
+  {
+    "question": "How many new telephone numbers became available when the three digit area code system was installed?",
+    "extracted_value": 7990000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many people would fit shoulder to shoulder in the corridor outside our class?",
+    "extracted_value": 2,
+    "attempts": 1
+  },
+  {
+    "question": "How big a block of chocolate could you make using all the chocolate eaten by the class in a year?",
+    "extracted_value": 2800,
+    "attempts": 1
+  },
+  {
+    "question": "What fraction of the earth's water is equal to the water in an adult male human?",
+    "extracted_value": 3.030303e-14,
+    "attempts": 1
+  },
+  {
+    "question": "How much would a Subway employee make per year if every customer tipped $1?",
+    "extracted_value": 13000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the ratio of the length of a 6 foot pipe that encompasses the Earth's oceans to the distance from the Earth to the Sun?",
+    "extracted_value": 0.0006157,
+    "attempts": 1
+  },
+  {
+    "question": "How long (meters) is the shoreline of the North American continent?",
+    "extracted_value": 75000000,
+    "attempts": 1
+  },
+  {
+    "question": "How much food has an average 30 year old American eaten?",
+    "extracted_value": 21880.2,
+    "attempts": 1
+  },
+  {
+    "question": "At what percentage would an alcoholic drink dehydrate you rather than hydrate?",
+    "extracted_value": 10,
+    "attempts": 1
+  },
+  {
+    "question": "If you played your favorite song continuously for a whole year, how many times would it play?",
+    "extracted_value": 175200,
+    "attempts": 1
+  },
+  {
+    "question": "How much would it cost to fill a swimming pool with Jell-O?",
+    "extracted_value": 56100,
+    "attempts": 1
+  },
+  {
+    "question": "If all the people in Australia joined hands and stretched themselves out in a straight line, how long would it reach?",
+    "extracted_value": 43860000,
+    "attempts": 1
+  },
+  {
+    "question": "How much smokeable marijuana is in the world?",
+    "extracted_value": null,
+    "attempts": 10
+  },
+  {
+    "question": "5 lbs of rice, if completely oxidized, yields how many grams of water?",
+    "extracted_value": 1360.8,
+    "attempts": 1
+  },
+  {
+    "question": "How much water is wasted by a leaky faucet in one day?",
+    "extracted_value": 21.6,
+    "attempts": 1
+  },
+  {
+    "question": "How much energy would be saved at our school each year if the lights were replaced by energy-efficient alternatives?",
+    "extracted_value": 100,
+    "attempts": 1
+  },
+  {
+    "question": "How many cells are needed to visible to a person?",
+    "extracted_value": 1000,
+    "attempts": 1
+  },
+  {
+    "question": "5 lbs of rice yields how many cc of cooked rice?",
+    "extracted_value": 8604,
+    "attempts": 1
+  },
+  {
+    "question": "How much power could a hydroelectric power station in a gutter generate?",
+    "extracted_value": 177,
+    "attempts": 1
+  },
+  {
+    "question": "What percentage of all the words in the English language would an audio transcriptionist who worked 40 hours a week for 4 years have typed?",
+    "extracted_value": 3993.6,
+    "attempts": 1
+  },
+  {
+    "question": "What would the tax the British imposed on the tea in the US colonies equate to today due to inflation?",
+    "extracted_value": 0.625,
+    "attempts": 1
+  },
+  {
+    "question": "I want to travel to every country in the world in one trip. How much would it cost?",
+    "extracted_value": 52000,
+    "attempts": 1
+  },
+  {
+    "question": "If a 6 foot diameter pipe were built to contain all the ocean water, how many miles long would the pipe have to be?",
+    "extracted_value": 317460317460.317,
+    "attempts": 1
+  },
+  {
+    "question": "How many people are afflicted with sickle cell anemia in the United States?",
+    "extracted_value": 100000,
+    "attempts": 1
+  },
+  {
+    "question": "How much nuclear material is needed for a tiny reactor to power roughly 10 average American homes?",
+    "extracted_value": 1,
+    "attempts": 1
+  },
+  {
+    "question": "What percentage of plants are used for drugs?",
+    "extracted_value": 28,
+    "attempts": 1
+  },
+  {
+    "question": "How many minutes does the average student play video games per day?",
+    "extracted_value": 100,
+    "attempts": 1
+  },
+  {
+    "question": "How many tons of batteries would be needed to power a car for one year?",
+    "extracted_value": 13.5,
+    "attempts": 1
+  },
+  {
+    "question": "If all the people in the world moved to Wales, how crowded would it be?",
+    "extracted_value": 380320,
+    "attempts": 1
+  },
+  {
+    "question": "If you could, how long would it take to drive to the moon?",
+    "extracted_value": 165.88,
+    "attempts": 1
+  },
+  {
+    "question": "If all of the people in the United States move to Colorado, what would be the population density, people per square mile, of that state?",
+    "extracted_value": 3189,
+    "attempts": 1
+  },
+  {
+    "question": "How many hours of tv will you watch in your lifetime?",
+    "extracted_value": 85410,
+    "attempts": 1
+  },
+  {
+    "question": "If everyone in our city donated one day's wages to a good cause, how much money could be raised?",
+    "extracted_value": 12000000,
+    "attempts": 2
+  },
+  {
+    "question": "Estimate the mass, kg, of the earth's atmosphere.",
+    "extracted_value": 5200000000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How big would an iPhone 6 be if implemented using the technology of ENIAC, the first digital computer?",
+    "extracted_value": 231481,
+    "attempts": 1
+  },
+  {
+    "question": "How many grains of sand are there on the beaches surrounding Lake Michigan?",
+    "extracted_value": 2161760000000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many times could a basketball player bounce a ball during her teenage years if she didn't stop to eat, sleep, etc.?",
+    "extracted_value": 220752000,
+    "attempts": 1
+  },
+  {
+    "question": "How much tire rubber, in lbs, is shed by normal wear and tear of car tires in the USA each year?",
+    "extracted_value": 414000000,
+    "attempts": 1
+  },
+  {
+    "question": "If all the water vapour and clouds in the atmosphere precipitated or condensed in one place, how large of a body of water would it form?",
+    "extracted_value": 12816736000,
+    "attempts": 1
+  },
+  {
+    "question": "How far does the ball travel in a game of soccer?",
+    "extracted_value": 10000,
+    "attempts": 1
+  },
+  {
+    "question": "How many rubber bands would it take to crush a human skull?",
+    "extracted_value": 520,
+    "attempts": 1
+  },
+  {
+    "question": "How many notes are played on a given radio station in a given year?",
+    "extracted_value": 43800000,
+    "attempts": 1
+  },
+  {
+    "question": "The owner collects and dries the grass clippings. In the course of a six month growing season, what is the total mass, g, of the dried clippings?",
+    "extracted_value": 1200,
+    "attempts": 2
+  },
+  {
+    "question": "How many leaves in Central Park?",
+    "extracted_value": 2000000000,
+    "attempts": 1
+  },
+  {
+    "question": "Estimate the angular momentum an automobile tire has about its axis of rotation while the car is driving on the interstate.",
+    "extracted_value": 2,
+    "attempts": 1
+  },
+  {
+    "question": "How many stickers does it take to cover a notebook?",
+    "extracted_value": 20,
+    "attempts": 1
+  },
+  {
+    "question": "If the Earth's average daily rainfall fell on Colorado, how many inches of rain precipitated?",
+    "extracted_value": 4.5e-05,
+    "attempts": 1
+  },
+  {
+    "question": "How high a column, in cm, would the RBCs in the blood of an adult male form, if stacked like a bunch of poker chips?",
+    "extracted_value": 125780000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many pennies are needed to equal the height of Mt. Everest?",
+    "extracted_value": 5826316,
+    "attempts": 1
+  },
+  {
+    "question": "How much gasoline does a typical automobile use during its lifetime?",
+    "extracted_value": 8000,
+    "attempts": 1
+  },
+  {
+    "question": "How much energy does it take to produce a flat-screen TV?",
+    "extracted_value": 7600,
+    "attempts": 1
+  },
+  {
+    "question": "Suppose the Army Corps of Engineers decided to put a dam across the Potomac River in order to provide power for the Washington area. Assume the dam was built to hold back the water into a lake to a height of 15 m behind the dam. Estimate the total force the water would exert on the dam.",
+    "extracted_value": 1102500000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the minimum surface area of a 2 dimensional sheet that would still cause a solar eclipse?",
+    "extracted_value": 5346028391488,
+    "attempts": 1
+  },
+  {
+    "question": "How old are you if you are a million seconds old?",
+    "extracted_value": 11.574,
+    "attempts": 1
+  },
+  {
+    "question": "How many cents per mile does it take to drive your car?",
+    "extracted_value": 37,
+    "attempts": 1
+  },
+  {
+    "question": "How many trees need to be cut to print newspapers everyday?",
+    "extracted_value": 360,
+    "attempts": 1
+  },
+  {
+    "question": "How old are you if you are a million hours old?",
+    "extracted_value": 114.155,
+    "attempts": 1
+  },
+  {
+    "question": "How many plastic straws are used every day accross the world?",
+    "extracted_value": 1000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How long is a truck?",
+    "extracted_value": 80,
+    "attempts": 1
+  },
+  {
+    "question": "Would it have been possible for a seismometer to pick up the vibrations caused by a walking Diplodocus?",
+    "extracted_value": 1e-12,
+    "attempts": 1
+  },
+  {
+    "question": "How many grains of rice are in a 10kg bag?",
+    "extracted_value": 500000,
+    "attempts": 1
+  },
+  {
+    "question": "How many gallons of gasoline does a car use in its lifetime?",
+    "extracted_value": 5760,
+    "attempts": 1
+  },
+  {
+    "question": "If all the string was removed from all of the tennis rackets in the US and layed out end-to-end, how many round trips from Detroit to Orlando could be made with the string?",
+    "extracted_value": 88.88,
+    "attempts": 1
+  },
+  {
+    "question": "How much would it cost to build the NYC subway from scratch today?",
+    "extracted_value": 550000000000.0,
+    "attempts": 2
+  },
+  {
+    "question": "How many seeds does a dandelion have?",
+    "extracted_value": 150,
+    "attempts": 1
+  },
+  {
+    "question": "How many fewer people would have solar panels if there were no subsidies for installing it?",
+    "extracted_value": 400000,
+    "attempts": 1
+  },
+  {
+    "question": "How many people would it take to surround our school if they held hands?",
+    "extracted_value": 200,
+    "attempts": 1
+  },
+  {
+    "question": "What are the approximate values of Force acting on a stretched string in a guitar?",
+    "extracted_value": 615.38,
+    "attempts": 1
+  },
+  {
+    "question": "How many more RBCs does an adult male have than an adult woman?",
+    "extracted_value": 500000,
+    "attempts": 1
+  },
+  {
+    "question": "How much can a single diatom intakes CO2 in a 6 day life span?",
+    "extracted_value": 1e-06,
+    "attempts": 1
+  },
+  {
+    "question": "How far could you theoretically travel back in time before you could no longer find a genetically compatible human to breed with because of differences caused by evolution?",
+    "extracted_value": 750000,
+    "attempts": 1
+  },
+  {
+    "question": "What do you estimate the total weight of all the Covid-19 viruses in the world?",
+    "extracted_value": 10000,
+    "attempts": 1
+  },
+  {
+    "question": "How many people could you fit into a classroom?",
+    "extracted_value": 60,
+    "attempts": 1
+  },
+  {
+    "question": "How much file space would be required to house every Disney production in standard definition?",
+    "extracted_value": 525,
+    "attempts": 1
+  },
+  {
+    "question": "Take your typical large football/soccer sized stadium and add levels until you can fit everyone on the planet... how big is this stadium?",
+    "extracted_value": 98750,
+    "attempts": 1
+  },
+  {
+    "question": "How much domestic trash is produced in the U.S per year?",
+    "extracted_value": 268800000,
+    "attempts": 1
+  },
+  {
+    "question": "How many trees does one need to grow in their backyard to balance the carbon footprint caused by the average usage of an Air Conditioner?",
+    "extracted_value": 46,
+    "attempts": 1
+  },
+  {
+    "question": "Moving 200 feet per minute, how long would it take to get from Earth to Mars?",
+    "extracted_value": 7021.57,
+    "attempts": 1
+  },
+  {
+    "question": "How many leaves are on a tree?",
+    "extracted_value": 50000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the kinetic energy of a truck driving on a highway?",
+    "extracted_value": 3125000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the total number of hairs on your head?",
+    "extracted_value": 150000,
+    "attempts": 1
+  },
+  {
+    "question": "If fluoride in water is 4 parts per million how much of an 8 oz glass of water would be fluoride atoms?",
+    "extracted_value": 3.2e-05,
+    "attempts": 1
+  },
+  {
+    "question": "How many A4 sheets does it take to make a paper chain long enough to go down the main hallway at school?",
+    "extracted_value": 17,
+    "attempts": 1
+  },
+  {
+    "question": "How many blades of grass are there on a football pitch?",
+    "extracted_value": 9406950000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the average amount of excrement produced per person per day in Africa?",
+    "extracted_value": 128,
+    "attempts": 1
+  },
+  {
+    "question": "How many days worth of video exists in the world currently?",
+    "extracted_value": 50000,
+    "attempts": 1
+  },
+  {
+    "question": "How much energy is spent each second by smartphones being charged?",
+    "extracted_value": 5000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many books are read by children in our school in one year?",
+    "extracted_value": 1500,
+    "attempts": 1
+  },
+  {
+    "question": "How many high fives has Lebron James given/received?",
+    "extracted_value": null,
+    "attempts": 10
+  },
+  {
+    "question": "What percentage of library books in the US were checked out at least once in 2016?",
+    "extracted_value": 35,
+    "attempts": 1
+  },
+  {
+    "question": "What is the density, g/cc, of the gold atom nucleus?",
+    "extracted_value": 201000000000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many people on earth have a PHD in computer science?",
+    "extracted_value": 250000,
+    "attempts": 1
+  },
+  {
+    "question": "How many cows are there in the United States?",
+    "extracted_value": 93800000,
+    "attempts": 1
+  },
+  {
+    "question": "How long would it take for erosion to erase the existence of the Mars rovers, if we never retrieve them?",
+    "extracted_value": 500000,
+    "attempts": 1
+  },
+  {
+    "question": "What percentage of the calories in a student's lunch is spent on swtiching between classes?",
+    "extracted_value": 10,
+    "attempts": 2
+  },
+  {
+    "question": "How many grams of steam are needed to melt a cubic foot of ice?",
+    "extracted_value": 3849.083,
+    "attempts": 1
+  },
+  {
+    "question": "How many tablespoons of water would fill a container?",
+    "extracted_value": 14.79,
+    "attempts": 1
+  },
+  {
+    "question": "The size of sphere made by taking all human body mass and forming it together in space.",
+    "extracted_value": 487.8,
+    "attempts": 1
+  },
+  {
+    "question": "How many construction sites are there in the US right now?",
+    "extracted_value": null,
+    "attempts": 10
+  },
+  {
+    "question": "Based on the current rate of infection of Covid-19, is there any way to estimate the number of people who will test positive world wide?",
+    "extracted_value": 19,
+    "attempts": 1
+  },
+  {
+    "question": "If Bill Gates started paying everyone $1 for every point of karma they earned on reddit, how fast would he go broke?",
+    "extracted_value": 256,
+    "attempts": 1
+  },
+  {
+    "question": "How many human ancestors do I have?",
+    "extracted_value": 2046,
+    "attempts": 1
+  },
+  {
+    "question": "How many cigrettes are needed to raise the temperature of the atmosphere by 1 degree celsius?",
+    "extracted_value": 1,
+    "attempts": 1
+  },
+  {
+    "question": "How many people attend Art Beat in South Bend each year?",
+    "extracted_value": 10000,
+    "attempts": 1
+  },
+  {
+    "question": "How many apples are there in the world at any one time?",
+    "extracted_value": 573333333333,
+    "attempts": 1
+  },
+  {
+    "question": "How much heat is lost when urine is voided?",
+    "extracted_value": 28304,
+    "attempts": 1
+  },
+  {
+    "question": "What is the total mass of COVID19 globally?",
+    "extracted_value": 200,
+    "attempts": 1
+  },
+  {
+    "question": "What's the value of all of mankind's buried grave goods?",
+    "extracted_value": null,
+    "attempts": 10
+  },
+  {
+    "question": "How many computer keyboard strokes have been made to date?",
+    "extracted_value": 5000000000000000,
+    "attempts": 2
+  },
+  {
+    "question": "How many children would a couple have to have in order to negate the need of a heating system in a modern average sized home?",
+    "extracted_value": 100,
+    "attempts": 1
+  },
+  {
+    "question": "What is the volume, cc, of the TiO2 in a gallon of paint formulation?",
+    "extracted_value": 304.007,
+    "attempts": 1
+  },
+  {
+    "question": "How much wood stores the yearly CO2 increase per human?",
+    "extracted_value": 5.4444,
+    "attempts": 1
+  },
+  {
+    "question": "How many people are involved in delivering and preparing the food consumed by Chicago in a day?",
+    "extracted_value": 50000,
+    "attempts": 1
+  },
+  {
+    "question": "How many plastic flamingos are there in the United States?",
+    "extracted_value": 250000,
+    "attempts": 1
+  },
+  {
+    "question": "How many 50-meter swimming pools could the water from the Earth's average daily rainfall fill?",
+    "extracted_value": 510000,
+    "attempts": 1
+  },
+  {
+    "question": "How many atoms thick are the connecting paths inside a micro chip?",
+    "extracted_value": 50,
+    "attempts": 1
+  },
+  {
+    "question": "How dense is the Milky Way galaxy in terms of stars per cubic light year?",
+    "extracted_value": 31.85,
+    "attempts": 1
+  },
+  {
+    "question": "What is the total carcass weight of roadkill in USA each year?",
+    "extracted_value": 36500000,
+    "attempts": 1
+  },
+  {
+    "question": "A floppy disk for a computer stores information by magnetizing small regions of the disk. For a typical floppy disk, estimate the area of the disk that corresponds to a single bit of information.",
+    "extracted_value": 9.3e-08,
+    "attempts": 1
+  },
+  {
+    "question": "If Earth were flat and my antenna was sufficiently high, how much power would I need to broadcast a radio station to the whole world?",
+    "extracted_value": 6371,
+    "attempts": 1
+  },
+  {
+    "question": "If all the people in the world moved to Victoria, how crowded would it be?",
+    "extracted_value": 35190,
+    "attempts": 1
+  },
+  {
+    "question": "How does the rate of infections of the H1N1 pandemic compare to the Covid19 pandemic?",
+    "extracted_value": 19,
+    "attempts": 1
+  },
+  {
+    "question": "How many times does your heart beat per year?",
+    "extracted_value": 36817200,
+    "attempts": 1
+  },
+  {
+    "question": "In the US over the last 100 years, how many individual murders have been attributed to reasons other than \"homicide\"?",
+    "extracted_value": 100,
+    "attempts": 1
+  },
+  {
+    "question": "Abhinav",
+    "extracted_value": null,
+    "attempts": 10
+  },
+  {
+    "question": "During the course of a calendar year, how far, km, through space has the moon traveled?",
+    "extracted_value": 32322763,
+    "attempts": 1
+  },
+  {
+    "question": "In an average year, how many lives would be saved if everyone around the world were required to wear a face mask in public?",
+    "extracted_value": 720000,
+    "attempts": 1
+  },
+  {
+    "question": "How much does the luminosity of the sun decrease with every passing second/minute?",
+    "extracted_value": 4.253,
+    "attempts": 1
+  },
+  {
+    "question": "How many RBCs are created per second in an adult male?",
+    "extracted_value": 2000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many Tesla model X p100ds would it take to pull a megalodon out of the water?",
+    "extracted_value": 27,
+    "attempts": 1
+  },
+  {
+    "question": "How many New Yorkers are awake through the night?",
+    "extracted_value": 2501045,
+    "attempts": 1
+  },
+  {
+    "question": "How much time would it take to transfer all YouTube videos to a different site to solve the adpocalypse?",
+    "extracted_value": 2534,
+    "attempts": 1
+  },
+  {
+    "question": "How much does San Fransisco weigh?",
+    "extracted_value": 47,
+    "attempts": 6
+  },
+  {
+    "question": "How many cups of water are there in a bath tub?",
+    "extracted_value": 1280,
+    "attempts": 1
+  },
+  {
+    "question": "How many electrons would flow through an iPod in one day?",
+    "extracted_value": 77625000000000000000000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the average number of first cousins that a person living in the United States has?",
+    "extracted_value": 9,
+    "attempts": 1
+  },
+  {
+    "question": "How many tenured professors are there in the world?",
+    "extracted_value": 1861600,
+    "attempts": 1
+  },
+  {
+    "question": "I just cooled myself off by rubbing an ice cube on my skin until it melted. How much energy did it take from body?",
+    "extracted_value": 10020,
+    "attempts": 1
+  },
+  {
+    "question": "How many square miles of paved surfaces are there in our city?",
+    "extracted_value": 250,
+    "attempts": 2
+  },
+  {
+    "question": "What is the surface area of a bath towel?",
+    "extracted_value": 1800,
+    "attempts": 1
+  },
+  {
+    "question": "How much force can a fit man exert to pry something open using a crowbar?",
+    "extracted_value": 980,
+    "attempts": 1
+  },
+  {
+    "question": "If it were to rain an average of 1 cm per hour over the entire surface of the earth, how many cubic miles of water would have rained during the course of one day?",
+    "extracted_value": 29344,
+    "attempts": 1
+  },
+  {
+    "question": "How many laps would I need to make around our classroom to go a mile?",
+    "extracted_value": 53,
+    "attempts": 1
+  },
+  {
+    "question": "How many calories does a student burn while switching classes?",
+    "extracted_value": 10,
+    "attempts": 1
+  },
+  {
+    "question": "How much ice (in pounds) is scraped off a hockey rink during one period?",
+    "extracted_value": 60,
+    "attempts": 1
+  },
+  {
+    "question": "How far does a bee fly each day?",
+    "extracted_value": 88500,
+    "attempts": 1
+  },
+  {
+    "question": "How many beers would it take for a 180-kg male tiger to reach BAC of 0.08% after two hours?",
+    "extracted_value": 0.72,
+    "attempts": 1
+  },
+  {
+    "question": "If I throw a pot of water towards the sun (assuming that the water stays in the pot) how close would it get before the water would boil?",
+    "extracted_value": 1500000,
+    "attempts": 1
+  },
+  {
+    "question": "How many gum balls would it take to reach from the Earth to the Moon?",
+    "extracted_value": 60551181102,
+    "attempts": 1
+  },
+  {
+    "question": "how loud do you have to scream at a piece of bread for it to be toast?",
+    "extracted_value": 1700,
+    "attempts": 1
+  },
+  {
+    "question": "What is the hourly pay rate of the biggest Hollywood actors?",
+    "extracted_value": 100000,
+    "attempts": 1
+  },
+  {
+    "question": "If all of the TiO2 pigment particles in the gallon of paint were place side by side as in a chain, how long, km, is the chain?",
+    "extracted_value": 15165,
+    "attempts": 1
+  },
+  {
+    "question": "How many years of university and training would Barbie need to qualify for all of the jobs she's had over the years?",
+    "extracted_value": 15,
+    "attempts": 1
+  },
+  {
+    "question": "How many times would this hula hoop roll to travel down the hall?",
+    "extracted_value": 5,
+    "attempts": 1
+  },
+  {
+    "question": "How many people were involved in the production of the Lord of the Rings trilogy?",
+    "extracted_value": 2500,
+    "attempts": 2
+  },
+  {
+    "question": "How tall could a man be before he dies of organ failure?",
+    "extracted_value": 11,
+    "attempts": 1
+  },
+  {
+    "question": "If the known universe were placed on a microscope slide, what magnification would be necessary to see Earth?",
+    "extracted_value": 14,
+    "attempts": 1
+  },
+  {
+    "question": "How many ping pongs balls would it take to fill the classroom?",
+    "extracted_value": 4833483,
+    "attempts": 1
+  },
+  {
+    "question": "If every human that's ever lived was brought back to life. What would be the population density people per square kilometer?",
+    "extracted_value": 785.23,
+    "attempts": 1
+  },
+  {
+    "question": "If Plants stop producing oxygen, how long can we survive?",
+    "extracted_value": 550,
+    "attempts": 1
+  },
+  {
+    "question": "What is the smallest number of cells that can be seen with the naked eye?",
+    "extracted_value": 1,
+    "attempts": 1
+  },
+  {
+    "question": "How many sheets of paper would we need to stack to reach your height?",
+    "extracted_value": 2,
+    "attempts": 1
+  },
+  {
+    "question": "How many total items are in my house?",
+    "extracted_value": null,
+    "attempts": 10
+  },
+  {
+    "question": "How thick, in meters, a water layer would be formed if all of this water were to condense simultaneously all over the earth?",
+    "extracted_value": 25.3,
+    "attempts": 1
+  },
+  {
+    "question": "How much lower would sea levels be if there weren't all the animals in it displacing water?",
+    "extracted_value": 5.54,
+    "attempts": 1
+  },
+  {
+    "question": "How many shrimps do I need to get 10g of Chitin?",
+    "extracted_value": 17,
+    "attempts": 1
+  },
+  {
+    "question": "The Federal Budget Deficit is approximately $100 Billion this year. What percentage of this do Americans spend on food in grocery stores in one year?",
+    "extracted_value": 700,
+    "attempts": 1
+  },
+  {
+    "question": "What is the weight of air in your living room?",
+    "extracted_value": 60,
+    "attempts": 1
+  },
+  {
+    "question": "The deficit in the Federal Budget this past year was approximately $100 Billion. Supposing the deficit were paid in $1 bills and they were layed out on the ground without overlapping, estimate what fraction of the District of Columbia that could be covered by the dollar bills.",
+    "extracted_value": 0.1712,
+    "attempts": 1
+  },
+  {
+    "question": "How much digital storage space would it require to store all of humanity's scientific and technological knowledge?",
+    "extracted_value": 295000000000000000000,
+    "attempts": 1
+  },
+  {
+    "question": "According to wikipedia, there are 484 ethnic groups in the world. If you were to have a baby from each ethnic group. What percentage of the worlds population would be related to you ?",
+    "extracted_value": 6.12658e-06,
+    "attempts": 1
+  },
+  {
+    "question": "How many man-hours of programmers did it take to create Skyrim?",
+    "extracted_value": 600000,
+    "attempts": 1
+  },
+  {
+    "question": "How many watts would a heater need to keep a local pond from freezing in winter?",
+    "extracted_value": 1070000,
+    "attempts": 1
+  },
+  {
+    "question": "What's the average lifespan of an Earthling?",
+    "extracted_value": 80,
+    "attempts": 1
+  },
+  {
+    "question": "If you had a stack of $2 coins as tall as Mt Kosciusko, what would it be worth?",
+    "extracted_value": 1592856,
+    "attempts": 1
+  },
+  {
+    "question": "How long would it have taken ENIAC (or another early computer) to mine 1 bitcoin?",
+    "extracted_value": 951293759512,
+    "attempts": 1
+  },
+  {
+    "question": "What is the weight of a suitcase full of $1 coins?",
+    "extracted_value": 405,
+    "attempts": 1
+  },
+  {
+    "question": "How much water is wasted in New York?",
+    "extracted_value": 36000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How much TNT would it take to get a human on the moon?",
+    "extracted_value": 1500000,
+    "attempts": 1
+  },
+  {
+    "question": "How many musical notes are played on your favorite radio station in a given year?",
+    "extracted_value": 87600000,
+    "attempts": 1
+  },
+  {
+    "question": "How many tiles are on a room's floor?",
+    "extracted_value": null,
+    "attempts": 10
+  },
+  {
+    "question": "How many sidewalk squares are in a block?",
+    "extracted_value": 60,
+    "attempts": 1
+  },
+  {
+    "question": "How many pizzas are eaten by our class in one year?",
+    "extracted_value": 2,
+    "attempts": 1
+  },
+  {
+    "question": "How long would it take to completely drain the Mediterranean Sea?",
+    "extracted_value": 7930,
+    "attempts": 1
+  },
+  {
+    "question": "How long would our class have to save to buy a car?",
+    "extracted_value": 2,
+    "attempts": 1
+  },
+  {
+    "question": "How hot does the superhero, the human torch, have to be to evaporate bullets in flight?",
+    "extracted_value": 5000,
+    "attempts": 1
+  },
+  {
+    "question": "How many grains of rice are in a 5 poundsbag?",
+    "extracted_value": 81000,
+    "attempts": 1
+  },
+  {
+    "question": "What wind speed would be required to blow my car off the road?",
+    "extracted_value": 100,
+    "attempts": 1
+  },
+  {
+    "question": "How much would it cost to buy one of every product sold in the world today?",
+    "extracted_value": 100000000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many people are airborne over the US at any given moment?",
+    "extracted_value": 5000,
+    "attempts": 1
+  },
+  {
+    "question": "How long would it take for an STI with no symptoms and a 100% transmission rate to infect 99% of the world population?",
+    "extracted_value": 99,
+    "attempts": 1
+  },
+  {
+    "question": "How long does it take for a new coastline to erode into a sandy beach?",
+    "extracted_value": 50,
+    "attempts": 1
+  },
+  {
+    "question": "The moon is drifting away from Earth. In what year, approximately, will it no longer be visible to the naked eye?",
+    "extracted_value": 3.8,
+    "attempts": 1
+  },
+  {
+    "question": "Based on what we know about the history of chickens, and the history of roads, about how long ago a chicken could have crossed a road?",
+    "extracted_value": 4000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the total area of all currently existing spiderwebs in the world?",
+    "extracted_value": 90000000,
+    "attempts": 2
+  },
+  {
+    "question": "How much paper is used at our school each week?",
+    "extracted_value": 50000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the weight of a medieval broad sword?",
+    "extracted_value": 2.5,
+    "attempts": 1
+  },
+  {
+    "question": "How much does a tornado weigh?",
+    "extracted_value": 20000,
+    "attempts": 1
+  },
+  {
+    "question": "How many songs contain the lyrics \"baby\"?",
+    "extracted_value": 5000,
+    "attempts": 3
+  },
+  {
+    "question": "How much room-temperature water do I need to drink per day to suppress my 37.78 degrees Celsius fever by 0.5 degrees Celsius (by carrying heat away when it leaves my body), assuming my metabolism stays at the average adult male baseline?",
+    "extracted_value": 2917,
+    "attempts": 1
+  },
+  {
+    "question": "How many post its would it take to completely cover a cessna 172?",
+    "extracted_value": 2683,
+    "attempts": 1
+  },
+  {
+    "question": "What percentage of airplane passengers are first-time fliers?",
+    "extracted_value": 10,
+    "attempts": 2
+  },
+  {
+    "question": "How many hairs on your head?",
+    "extracted_value": 100000,
+    "attempts": 1
+  },
+  {
+    "question": "How many graduates, people holding first university degrees, do we produce in our country?",
+    "extracted_value": 15000,
+    "attempts": 5
+  },
+  {
+    "question": "By how many degrees does the average human body increase the temperature of an average room?",
+    "extracted_value": 0.28,
+    "attempts": 1
+  },
+  {
+    "question": "How many water droplets make up a cumulus clouds?",
+    "extracted_value": 550000000000,
+    "attempts": 1
+  },
+  {
+    "question": "If the earth heats up by 0.5 degrees, how much energy is saved during winters?",
+    "extracted_value": 0.5,
+    "attempts": 1
+  },
+  {
+    "question": "How tall would someone have to be to be able to run around the globe at average stride in 6 minutes?",
+    "extracted_value": 26504,
+    "attempts": 1
+  },
+  {
+    "question": "What is the minimum amount of total force required by hand in order to get it to close to a point from an open position?",
+    "extracted_value": 25,
+    "attempts": 1
+  },
+  {
+    "question": "How many trout would it take to pull a houseboat?",
+    "extracted_value": 1033,
+    "attempts": 2
+  },
+  {
+    "question": "How many snowflakes would it take to completely cover a driveway?",
+    "extracted_value": 14675349,
+    "attempts": 1
+  },
+  {
+    "question": "For a cup of uncooked rice, what fraction of the cup is air?",
+    "extracted_value": 0.35,
+    "attempts": 1
+  },
+  {
+    "question": "How much land is required to rehabilitate 10 million refugees?",
+    "extracted_value": 450,
+    "attempts": 1
+  },
+  {
+    "question": "How many bacteria would it take to make them visible to the naked eye?",
+    "extracted_value": 1000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How large a landfill would our county need to store 100 years of garbage?",
+    "extracted_value": 0.9,
+    "attempts": 1
+  },
+  {
+    "question": "During the time interval of a blink, how many km has light traveled in a vacuum?",
+    "extracted_value": 30000,
+    "attempts": 1
+  },
+  {
+    "question": "How many helium balloons do I need to make plush toy float?",
+    "extracted_value": 15,
+    "attempts": 1
+  },
+  {
+    "question": "How many children are needed to have a mass the same as an elephant?",
+    "extracted_value": 167,
+    "attempts": 1
+  },
+  {
+    "question": "How many pizzas were eaten last year in the U.S.?",
+    "extracted_value": 3000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many beads would it take to make a bracelet that fits perfectly on my wrist?",
+    "extracted_value": 23,
+    "attempts": 1
+  },
+  {
+    "question": "What is the mass (grams) of a water molecule?",
+    "extracted_value": 23,
+    "attempts": 1
+  },
+  {
+    "question": "How does Earth's age compare to the rest of the galaxy?",
+    "extracted_value": 0.336,
+    "attempts": 1
+  },
+  {
+    "question": "How many pairs of M&Ms with the exact same M&M colors exist out there, taking into account every M&M bag ever sold?",
+    "extracted_value": 4,
+    "attempts": 1
+  },
+  {
+    "question": "How many times has Tiger Woods swung a golf club in his life?",
+    "extracted_value": 7847500,
+    "attempts": 1
+  },
+  {
+    "question": "How many dump trucks would it take to cart away Mount Everest?",
+    "extracted_value": 26071428571,
+    "attempts": 1
+  },
+  {
+    "question": "How much sunlight can be deflected to stop global warming?",
+    "extracted_value": 3132000000000000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the volume (cubic miles) of the earth?",
+    "extracted_value": 260000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many pencils would it take to draw a straight line along the entire Prime Meridian of the earth?",
+    "extracted_value": 357.14,
+    "attempts": 1
+  },
+  {
+    "question": "What is the average distance, m, between pigment particles in a paint film?",
+    "extracted_value": 0.5848,
+    "attempts": 1
+  },
+  {
+    "question": "How loud must a sound be at its origin to be heard 100 feet (34.5 metres) away at low volume (0 dB).",
+    "extracted_value": 100,
+    "attempts": 1
+  },
+  {
+    "question": "How long would a black hole with the mass of earth take to consume the sun?",
+    "extracted_value": 4,
+    "attempts": 1
+  },
+  {
+    "question": "Approximately how much explosive yield would 5,623kg of Plutonium-238 create?",
+    "extracted_value": 95591,
+    "attempts": 1
+  },
+  {
+    "question": "Instead of adding and subtracting your checkbook transactions by the penny, you rounded up or down to the nearest dollar; how far off would your balance be after 6 months?",
+    "extracted_value": 45,
+    "attempts": 1
+  },
+  {
+    "question": "How many shirts we need to feel warm on Pluto?",
+    "extracted_value": 0,
+    "attempts": 1
+  },
+  {
+    "question": "What is the volume of the Moon in cubic meters?",
+    "extracted_value": 21900000000000000,
+    "attempts": 2
+  },
+  {
+    "question": "How much water can humanity store in new dams or by flooding lowlands in an effort to combat melting of the polar ice sheet?",
+    "extracted_value": 42,
+    "attempts": 1
+  },
+  {
+    "question": "How many USA residents are legally prohibited from buying guns?",
+    "extracted_value": 2500000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the cumulative budget of US police forces?",
+    "extracted_value": 100,
+    "attempts": 1
+  },
+  {
+    "question": "how fast would you have to be moving to make it from one side of the Earth to the other in 0.3 seconds?",
+    "extracted_value": 42473.33,
+    "attempts": 1
+  },
+  {
+    "question": "Estimate the number of TV sets in New York City.",
+    "extracted_value": 4845,
+    "attempts": 1
+  },
+  {
+    "question": "The Ontario government decides that winter is too depressing and that what is really needed is to turn all of Lake Ontario into one giant mug of hot chocolate. Find the number of packets of hot chocolate powder required to make this much hot chocolate.",
+    "extracted_value": 6560000000000,
+    "attempts": 1
+  },
+  {
+    "question": "If all but 1 million people on Earth died, how far (on average) would you have to walk to meet someone?",
+    "extracted_value": 386.33,
+    "attempts": 1
+  },
+  {
+    "question": "If all of the Earth's oceans were transported to the Moon, what would be the average depth, in meters, of the lunar ocean?",
+    "extracted_value": 35.172,
+    "attempts": 1
+  },
+  {
+    "question": "How many unique names will we encounter in our lifetime?",
+    "extracted_value": 10000,
+    "attempts": 1
+  },
+  {
+    "question": "How much land would be needed if each family had a house and a yard?",
+    "extracted_value": 10000,
+    "attempts": 1
+  },
+  {
+    "question": "A breakfast cereal, similar to Cheerios, is composed of small oat cylinders, 1 cm dia., 4 mm high with a 4 mm diameter hole bored through. Estimate the mass, g, of one cylinder.",
+    "extracted_value": 0.358,
+    "attempts": 1
+  },
+  {
+    "question": "What would the file size be on an hour of 22.4.8 surround sound audio?",
+    "extracted_value": 17.496,
+    "attempts": 1
+  },
+  {
+    "question": "How much blood would it take to stain the ocean red?",
+    "extracted_value": 1332000000,
+    "attempts": 1
+  },
+  {
+    "question": "Out of all songs ever recorded, what percentage of songs are in the time signature 4/4?",
+    "extracted_value": 70,
+    "attempts": 1
+  },
+  {
+    "question": "What percentage of the oxygen we breath is from plants that we didn't plant?",
+    "extracted_value": 95,
+    "attempts": 1
+  },
+  {
+    "question": "How many metres of spaghetti would be needed if all of the children in a school had spaghetti bolognese for lunch?",
+    "extracted_value": 50000,
+    "attempts": 1
+  },
+  {
+    "question": "How much popcorn is popped at the movie theater on an average Saturday?",
+    "extracted_value": 5000,
+    "attempts": 1
+  },
+  {
+    "question": "How many pencils would it take to draw a straight line along the entire Prime Meridian of the Earth?",
+    "extracted_value": 358,
+    "attempts": 1
+  },
+  {
+    "question": "How many calories are you consuming licking the Cheetos dust off your fingers per serving?",
+    "extracted_value": 30,
+    "attempts": 1
+  },
+  {
+    "question": "What is the CO2 emissions from the creation of GPT-3, the deep net of unprecedented size that can write Javascript and finish your GoT fan fiction?",
+    "extracted_value": 552000,
+    "attempts": 1
+  },
+  {
+    "question": "Estimate the number of cars entering the state of New York at any given time.",
+    "extracted_value": 1350,
+    "attempts": 1
+  },
+  {
+    "question": "The deficit in the Federal Budget this past year was approximately $100 Billion. Assuming this was divided equally to every man, woman, and child in the country, what is your share of the debt?",
+    "extracted_value": 303.03,
+    "attempts": 1
+  },
+  {
+    "question": "A human in a 2 square metre \"box\" - how big does a hole have to be to bring enough oxygen in?",
+    "extracted_value": 13.9,
+    "attempts": 1
+  },
+  {
+    "question": "How much energy is required to completely destroy the earth?",
+    "extracted_value": 30,
+    "attempts": 1
+  },
+  {
+    "question": "If a lemon can be made into a battery, could lemons jump start a car?",
+    "extracted_value": 400,
+    "attempts": 1
+  },
+  {
+    "question": "How much of the Great Lakes would be filled by fossil fuels extracted by humans?",
+    "extracted_value": 5.96,
+    "attempts": 1
+  },
+  {
+    "question": "How many pages are there in all books that are read by children in our school in one year?",
+    "extracted_value": 3000,
+    "attempts": 2
+  },
+  {
+    "question": "How many stuffed animals would fit on a shelf?",
+    "extracted_value": 10,
+    "attempts": 1
+  },
+  {
+    "question": "How many snap cubes laid end to end would stretch across the room?",
+    "extracted_value": 250,
+    "attempts": 3
+  },
+  {
+    "question": "How many punctuation marks are in a book?",
+    "extracted_value": 10000,
+    "attempts": 1
+  },
+  {
+    "question": "How far, in km, does light travel during the time between two full moons?",
+    "extracted_value": 764804505.6,
+    "attempts": 1
+  },
+  {
+    "question": "How many baseballs are used during the course of the Major League season?",
+    "extracted_value": 900000,
+    "attempts": 1
+  },
+  {
+    "question": "Just how large would an object in geostationary orbit need to be in order to be visible from earth with the naked eye?",
+    "extracted_value": 10.4,
+    "attempts": 1
+  },
+  {
+    "question": "If I donate a pint of blood, how many days will it take for my red cell count to return to normal?",
+    "extracted_value": 56,
+    "attempts": 1
+  },
+  {
+    "question": "How much land would be needed to meet the energy demands of the US purely through solar energy?",
+    "extracted_value": 195640,
+    "attempts": 1
+  },
+  {
+    "question": "At the height of summer, what is the total mass of all the leaves grown on trees in New Hampshire?",
+    "extracted_value": 250000000,
+    "attempts": 3
+  },
+  {
+    "question": "How many American adults (age 25+) have zero first cousins AND neither of their parents are only-children?",
+    "extracted_value": 270080,
+    "attempts": 1
+  },
+  {
+    "question": "Roughly how much would it cost per person to provide free food to everyone per day?",
+    "extracted_value": 2,
+    "attempts": 1
+  },
+  {
+    "question": "How many years should one smoke one cigarette a day to be affected as much as living in Bangkok for 10 years?",
+    "extracted_value": 11,
+    "attempts": 1
+  },
+  {
+    "question": "If all of the cars in the U.S. got at least 25 miles per gallon, how many tons of CO2 would not be produced via this fuel saving?",
+    "extracted_value": 280756230,
+    "attempts": 1
+  },
+  {
+    "question": "What would be the blast radius of a Davey Crockett nuke?",
+    "extracted_value": 150,
+    "attempts": 1
+  },
+  {
+    "question": "What percent of organ donors die and actually meet the criteria to donate?",
+    "extracted_value": 0.3,
+    "attempts": 1
+  },
+  {
+    "question": "How much oil, gas and coal has humans consumed up till now?",
+    "extracted_value": 8,
+    "attempts": 1
+  },
+  {
+    "question": "How many bath towels are needed to cover a football field?",
+    "extracted_value": 4608,
+    "attempts": 1
+  },
+  {
+    "question": "If you prepared a tank with all of the air you need to breathe in one day, how large would it be?",
+    "extracted_value": 11,
+    "attempts": 1
+  },
+  {
+    "question": "I'm a 19 year old male that is 6'2\" & 180lbs that excersizes regularly. Roughly what percent of the world's population could I beat in a fight?",
+    "extracted_value": 30,
+    "attempts": 1
+  },
+  {
+    "question": "How many molecules of water are in a cup of water?",
+    "extracted_value": 7930854070,
+    "attempts": 1
+  },
+  {
+    "question": "How many softballs are produced annually?",
+    "extracted_value": 500000,
+    "attempts": 1
+  },
+  {
+    "question": "How many gallons of water move down the Mississippi River in one day?",
+    "extracted_value": 387571200000,
+    "attempts": 1
+  },
+  {
+    "question": "If we had a cueball earthsized how high will be the highest mountain?",
+    "extracted_value": 0,
+    "attempts": 1
+  },
+  {
+    "question": "How many kilometers would the Earth have travelled during the time elapsed between two full moons?",
+    "extracted_value": 76051420,
+    "attempts": 2
+  },
+  {
+    "question": "How many nukes do you need to move the Earth 1% out of its orbit?",
+    "extracted_value": 129186600000000,
+    "attempts": 1
+  },
+  {
+    "question": "If all the RBCs in an adult male are placed in a square pattern, what is the area, in m2, that these RBCs would cover?",
+    "extracted_value": 1375000,
+    "attempts": 1
+  },
+  {
+    "question": "Consider a steel ball at room temperature. If you converted all its internal energy to kinetic energy, how fast would it be moving?",
+    "extracted_value": 0.5,
+    "attempts": 1
+  },
+  {
+    "question": "How long is one gram of DNA?",
+    "extracted_value": 2000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How Fast Would You Have To Be Going To Travel A Light Year a Day?",
+    "extracted_value": 109459013.40277778,
+    "attempts": 1
+  },
+  {
+    "question": "What is the approximate total length, km, of blood vessels in an adult male?",
+    "extracted_value": 100000,
+    "attempts": 1
+  },
+  {
+    "question": "Estimate the number of blades of grass a typical suburban house's lawn has in the summer.",
+    "extracted_value": 37535840000,
+    "attempts": 1
+  },
+  {
+    "question": "How long does it take a light bulb to turn off?",
+    "extracted_value": 0,
+    "attempts": 1
+  },
+  {
+    "question": "How tall would a bacteria be on the surface of the skin, if it were like a tree on the surface of the earth?",
+    "extracted_value": 4.7,
+    "attempts": 1
+  },
+  {
+    "question": "If we were to tally up every drop of gas wasted each time we hang up the pump, how many gallons per year would that equate to?",
+    "extracted_value": 0.006864,
+    "attempts": 1
+  },
+  {
+    "question": "How long would a (2500 mAh) AA battery be able to sustain a beam of energy that could, within seconds, burn through wood?",
+    "extracted_value": 45,
+    "attempts": 1
+  },
+  {
+    "question": "How much does it cost to leave a light on for an entire year?",
+    "extracted_value": 68.328,
+    "attempts": 1
+  },
+  {
+    "question": "How large of an comet would have to hit the earth in order to correct the tilt?",
+    "extracted_value": 23.5,
+    "attempts": 2
+  },
+  {
+    "question": "How many tons of food are consumed in Chicago during the course of a day?",
+    "extracted_value": 5000,
+    "attempts": 1
+  },
+  {
+    "question": "How many illiterate people are there in India?",
+    "extracted_value": 287000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many people do we meet in our life?",
+    "extracted_value": 80000,
+    "attempts": 1
+  },
+  {
+    "question": "How many links do we need to make a paper chain that stretches across the bulletin board?",
+    "extracted_value": 30,
+    "attempts": 1
+  },
+  {
+    "question": "How many years would it take if it were possible to walk to the moon?",
+    "extracted_value": 9,
+    "attempts": 1
+  },
+  {
+    "question": "How many balloons can lift an Is-3?",
+    "extracted_value": 3285715,
+    "attempts": 1
+  },
+  {
+    "question": "What is the average depth (cm) of the earth's oceans?",
+    "extracted_value": 368800,
+    "attempts": 1
+  },
+  {
+    "question": "How much electricity would one need to stop a car from moving forward?",
+    "extracted_value": 0.0555556,
+    "attempts": 1
+  },
+  {
+    "question": "How many inch-worms are equivalent in length to the circumference of the Earth at the equator?",
+    "extracted_value": 1577728640,
+    "attempts": 1
+  },
+  {
+    "question": "How many drops of water are needed to fill a swimming pool (25x12x2 meters)?",
+    "extracted_value": 12000000000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the usage of former rainforest territory in percent?",
+    "extracted_value": 70,
+    "attempts": 2
+  },
+  {
+    "question": "How much electrical power could you conceivably get out of a horse generator?",
+    "extracted_value": 521.5,
+    "attempts": 1
+  },
+  {
+    "question": "At what time is a higher percentage of a country's population asleep than awake?",
+    "extracted_value": 3,
+    "attempts": 1
+  },
+  {
+    "question": "How many soccer balls could you fit into a classroom?",
+    "extracted_value": 46632,
+    "attempts": 1
+  },
+  {
+    "question": "What is the estimated journey time for Santa Claus?",
+    "extracted_value": 24,
+    "attempts": 1
+  },
+  {
+    "question": "how much do all the worlds beards weigh?",
+    "extracted_value": 43450,
+    "attempts": 1
+  },
+  {
+    "question": "If the sun were a head of a body, how long would it's arms be?",
+    "extracted_value": 5216250,
+    "attempts": 1
+  },
+  {
+    "question": "What temperature would air have to be to give you a third-degree burn over the periods of 1 second?",
+    "extracted_value": 156,
+    "attempts": 1
+  },
+  {
+    "question": "The Paedophryne amauensis frog is the smallest vertebrates known to science, how many cells go into making up a typical (adult) specimen's body?",
+    "extracted_value": 7000000000,
+    "attempts": 1
+  },
+  {
+    "question": "On Sunday of Thanksgiving weekend, the highway is at maximum capacity with cars safely going at the speed limit. How many cars are on the highway?",
+    "extracted_value": 12500,
+    "attempts": 1
+  },
+  {
+    "question": "How many sponges does it take to drain the ocean?",
+    "extracted_value": 13320000000000000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How hard you need to throw a snowball to knock down/faint a person?",
+    "extracted_value": 90,
+    "attempts": 1
+  },
+  {
+    "question": "If you drop a pumpkin from the top of a ten story building what is the farthest a single pumpkin seed can land from the point of impact?",
+    "extracted_value": 30,
+    "attempts": 1
+  },
+  {
+    "question": "How many cups of water are there in an Olympic pool?",
+    "extracted_value": 10560000,
+    "attempts": 1
+  },
+  {
+    "question": "How much new wood is grown around the world by trees everyday?",
+    "extracted_value": 10000000000,
+    "attempts": 1
+  },
+  {
+    "question": "How long does it take for blood to coagulate in a reptile carcass?",
+    "extracted_value": 120,
+    "attempts": 1
+  },
+  {
+    "question": "If all of the books in a school were stacked on top of each other in one pile, how tall would the pile be?",
+    "extracted_value": 2,
+    "attempts": 2
+  },
+  {
+    "question": "How many toothpicks could be made from a telephone pole?",
+    "extracted_value": 4319914,
+    "attempts": 1
+  },
+  {
+    "question": "How much would a newly-discovered unreleased Beatles album sell for?",
+    "extracted_value": 500,
+    "attempts": 1
+  },
+  {
+    "question": "How much space would be required to fit 1 individual of each species of plants and animals?",
+    "extracted_value": 8700000,
+    "attempts": 1
+  },
+  {
+    "question": "How much space would a million people need at a political rally?",
+    "extracted_value": 4000000,
+    "attempts": 1
+  },
+  {
+    "question": "I was writing a harpy character (demi-human) and ran into a problem in regards to his wingspan. Can you all help?",
+    "extracted_value": 15,
+    "attempts": 1
+  },
+  {
+    "question": "How many blades of grass are in a typical lawn in your neighborhood?",
+    "extracted_value": 109771200,
+    "attempts": 2
+  },
+  {
+    "question": "How long would it take for a space ship to reach 42 light years away?",
+    "extracted_value": 14925,
+    "attempts": 1
+  },
+  {
+    "question": "Assuming we found a suitable place and could get there, how many people would be needed to colonize a new planet without having to worry about incest in future generations?",
+    "extracted_value": 160,
+    "attempts": 1
+  },
+  {
+    "question": "In the United States, how many people have type O blood?",
+    "extracted_value": 145641167,
+    "attempts": 1
+  },
+  {
+    "question": "How much additional weight would you need to make a dead body submerge in water?",
+    "extracted_value": 3,
+    "attempts": 1
+  },
+  {
+    "question": "What is the surface area, cm2, of a TiO2 pigment particle?",
+    "extracted_value": 1.9635e-08,
+    "attempts": 1
+  },
+  {
+    "question": "According to some recent highly accurate measurements made from satellites, the continent of North America is drifting at a rate of about 1 cm per year. Assuming a continent is about 50 km thick, estimate the kinetic energy the continental US has as a result of this motion.",
+    "extracted_value": 6678950000000,
+    "attempts": 1
+  },
+  {
+    "question": "How many youtube videos are there?",
+    "extracted_value": 4320000,
+    "attempts": 1
+  },
+  {
+    "question": "How many sharks are there?",
+    "extracted_value": 3500,
+    "attempts": 1
+  },
+  {
+    "question": "How many water molecules are present in the earth's oceans?",
+    "extracted_value": 46,
+    "attempts": 1
+  },
+  {
+    "question": "How long would it take for a microwave to evaporate 250 ml of water?",
+    "extracted_value": 10.82,
+    "attempts": 1
+  },
+  {
+    "question": "How much does a city weigh?",
+    "extracted_value": 300000000000,
+    "attempts": 1
+  },
+  {
+    "question": "In the 1989 Loma Prieta earthquake in California, approximately 2 million books fell off the shelves at the Stanford University library. If you were the library administrator and wanted to hire enough part-time student labor to put the books back on the shelves in order in 2 weeks, how many students would you have to hire?",
+    "extracted_value": 953,
+    "attempts": 1
+  },
+  {
+    "question": "If a person rubbed a rock with their fingers how long would it take for the rock to become smooth?",
+    "extracted_value": 1000,
+    "attempts": 3
+  },
+  {
+    "question": "For next year's Physics Open House the Department is planning to set up a bungee jump from the top of the physics building. Assume that one end of an elastic band will be firmly attached to the top of the building and the other to the waist of a courageous participant. The participant will step off the edge of the building to be slowed and brought back up by the elastic band before hitting the ground (we hope). Estimate the spring constant of the elastic you would recommend using.",
+    "extracted_value": 109.76,
+    "attempts": 1
+  },
+  {
+    "question": "During a male's lifetime, how many pounds of RBCs are produced?",
+    "extracted_value": 294,
+    "attempts": 1
+  },
+  {
+    "question": "How many texts does the average student send per year?",
+    "extracted_value": 3500,
+    "attempts": 1
+  },
+  {
+    "question": "How many terabytes would the entirety of google earth take up if you were to download it?",
+    "extracted_value": 3000,
+    "attempts": 1
+  },
+  {
+    "question": "How much energy would fall on a 1-square-meter surface from starlight?",
+    "extracted_value": 2e-08,
+    "attempts": 1
+  },
+  {
+    "question": "How long does it take to sail around Antarctica?",
+    "extracted_value": 90,
+    "attempts": 1
+  },
+  {
+    "question": "On average and to be approximate, how much carbon emissions will be averted if 30,000 to 50,000 violent gang members were to be suddenly eliminated?",
+    "extracted_value": 50000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the volume of the earth, in km3?",
+    "extracted_value": 1097509500,
+    "attempts": 1
+  },
+  {
+    "question": "If every forest and tree on Earth burned down, what would the remaining % of oxygen in the atmosphere be?",
+    "extracted_value": 20,
+    "attempts": 1
+  },
+  {
+    "question": "How much weight does ink add to paper?",
+    "extracted_value": 0.9,
+    "attempts": 1
+  },
+  {
+    "question": "Estimate the angular momentum that your body has as a result of the earth's turning on its axis.",
+    "extracted_value": 66076000000,
+    "attempts": 1
+  },
+  {
+    "question": "How big would a tower have to be in order for everyone in North America to be able to see it?",
+    "extracted_value": 490.3,
+    "attempts": 1
+  },
+  {
+    "question": "What is the total number of shots taken in one NBA season, including the tournament?",
+    "extracted_value": 116160,
+    "attempts": 1
+  },
+  {
+    "question": "Speedy Jones is the only deaf, Olympic sprinter. He uses the flash of the Starter's pistol to start a race. Speedy and 7 others won their 100-meter heats in 10.00 seconds. In the semi-final heat featuring these 8 racers, the Starter mistakenly fired his pistol at the finish line of the race. By how many millimeters did Speedy win his heat?",
+    "extracted_value": 0,
+    "attempts": 1
+  },
+  {
+    "question": "How much air would it take to fill all of the school's basketballs, soccer balls, and volleyballs?",
+    "extracted_value": 212500,
+    "attempts": 1
+  },
+  {
+    "question": "How many buildings are there?",
+    "extracted_value": 42,
+    "attempts": 4
+  },
+  {
+    "question": "How much food does a man eat in his lifetime?",
+    "extracted_value": 146000,
+    "attempts": 1
+  },
+  {
+    "question": "How long does it take to cool the cockpit of an airplane to a desired temperature with an air conditioner?",
+    "extracted_value": 15,
+    "attempts": 1
+  },
+  {
+    "question": "How many molecules are in a TiO2 pigment particle?",
+    "extracted_value": 4490000000,
+    "attempts": 1
+  },
+  {
+    "question": "If you took all humans and put it all in a box, how big would the edge of the box be?",
+    "extracted_value": 820,
+    "attempts": 1
+  },
+  {
+    "question": "If fully oxygenated, how many oxygen molecules could be carried by the RBCs of an adult male?",
+    "extracted_value": 25000000000000000000000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the horsepower in an average fart?",
+    "extracted_value": 0.0001836734693877551,
+    "attempts": 1
+  },
+  {
+    "question": "How many people would COVID-19 kill if it were 1918?",
+    "extracted_value": 12,
+    "attempts": 2
+  },
+  {
+    "question": "How fast would deceased U.S. Presidents need to spin in their graves to meet the energy demands of the entire United States?",
+    "extracted_value": 18296602.67,
+    "attempts": 1
+  },
+  {
+    "question": "How many times as fast as ants are humans?",
+    "extracted_value": 46.67,
+    "attempts": 1
+  },
+  {
+    "question": "How much 1792's USD cost today's USD?",
+    "extracted_value": 50000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the mass, in kgs, of the moon?",
+    "extracted_value": 21,
+    "attempts": 1
+  },
+  {
+    "question": "How many balloons would it take to fill the school hall?",
+    "extracted_value": 425532,
+    "attempts": 1
+  },
+  {
+    "question": "How many Americans paid more than $750 in income tax in 2016?",
+    "extracted_value": 120870000,
+    "attempts": 1
+  },
+  {
+    "question": "How long a hot dog can be made from a typical cow?",
+    "extracted_value": 2500,
+    "attempts": 1
+  },
+  {
+    "question": "How many leaves are there in the world?",
+    "extracted_value": 150000000000000000,
+    "attempts": 1
+  },
+  {
+    "question": "What is the density, g/cc, of the Sun?",
+    "extracted_value": 1.41,
+    "attempts": 1
+  },
+  {
+    "question": "How much energy a large rock has at impact?",
+    "extracted_value": 196000,
+    "attempts": 1
+  }
+]
